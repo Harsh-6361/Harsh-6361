@@ -12,13 +12,32 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-vardhan-21a6361/">LinkedIn</a> ·
-  <a href="mailto:harshvardhan.21.6361@gmail.com">Email</a>
+  <a href="mailto:harshvardhan.21.6361@gmail.com">Email</a> ·
+  <a href="https://github.com/Harsh-6361">GitHub</a>
 </p>
 
 ---
 
-## Summary
-I build end‑to‑end web applications and APIs with an emphasis on clean architecture, performance, and shipping production‑ready features. I also enjoy working on blockchain systems and AI‑powered applications.
+## Recruiter Snapshot
+- **Focus:** Full‑stack product engineering (React + Node.js), APIs, cloud, and applied AI
+- **Strengths:** Clean architecture, performance optimization, shipping production features, client delivery
+- **Open to:** SDE / Full‑Stack / Backend roles (Intern / Entry‑level)
+
+## Highlights
+- Built and shipped **production web apps** with scalable architecture
+- Designed REST APIs handling **1,000+ daily requests**
+- Reduced latency by improving database queries; automated tests cutting **~20%** manual QA
+- Delivered **2 production applications + 1 MVP** as a freelancer
+
+---
+
+## Services (Freelance)
+If you’re building a product or need engineering help, I can support:
+- MVPs and production web apps (UI + API + database)
+- API design, integrations, and performance improvements
+- Cloud deployment (AWS/GCP) and containerization (Docker)
+
+> Interested? Email me at **harshvardhan.21.6361@gmail.com**.
 
 ---
 
@@ -59,17 +78,17 @@ I build end‑to‑end web applications and APIs with an emphasis on clean archi
 
 **Junior Developer Intern — Netpy Technologies** (Oct 2025 – Feb 2026)
 - Built production‑ready web applications with scalable architecture
-- Designed REST APIs serving 1,000+ daily requests
+- Designed REST APIs serving **1,000+ daily requests**
 - Improved database query efficiency to reduce latency
-- Automated testing tasks, reducing manual QA effort by ~20%
+- Automated testing tasks, reducing manual QA effort by **~20%**
 
 **AWS Intern — Istudio** (Jun 2025 – Nov 2025)
 - Provisioned AWS EC2 instances and configured S3 with IAM policies
 - Implemented CloudTrail logging and planned for multi‑region availability
 
 **Freelance Full‑Stack Developer** (Jan 2024 – Present)
-- Delivered 2 production applications and 1 MVP
-- Built full‑stack solutions improving delivery efficiency by ~40%
+- Delivered **2 production applications** and **1 MVP**
+- Built full‑stack solutions improving delivery efficiency by **~40%**
 - Maintained strong client satisfaction across engagements
 
 ---
@@ -84,9 +103,9 @@ I build end‑to‑end web applications and APIs with an emphasis on clean archi
 ## Featured Projects
 | Project | What it is | Tech |
 |---|---|---|
-| [Blockchain Water Management](https://github.com/Harsh-6361/blockchain-enabled-water-management) | Blockchain‑enabled water management and theft detection | TypeScript · Solidity · AI |
+| [Blockchain Water Management](https://github.com/Harsh-6361/blockchain-enabled-water-management) | Blockchain‑enabled water management & theft detection | TypeScript · Solidity · AI |
 | [CCQ Website](https://github.com/Harsh-6361/CCQ-Website) | Commercial client website | TypeScript |
-| [Web3 Wallet Manager](https://github.com/Harsh-6361/Beginner-web3-wallet-manager) | Decentralized Ethereum wallet manager | Solidity · React · Node.js |
+| [Web3 Wallet Manager](https://github.com/Harsh-6361/Beginner-web3-wallet-manager) | Ethereum wallet manager | Solidity · React · Node.js |
 
 ---
 
