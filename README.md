@@ -19,22 +19,21 @@
   </div>
 </div>
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} name - J Harsh Vardhan.
- * @param {string} location - Bengaluru, Karnataka, India.
- * @param {string} jobTitle - Full-Stack Developer | Blockchain Developer | AI Application Engineer.
- * @param {string} specialization - React, Node.js, TypeScript, Solidity, AI.
- * @param {string} interests - Building scalable web apps, Blockchain, AI/ML.
- * @param {string} education - BE CSE at SEA College of Engineering and Technology.
- * @param {string} openTo - SDE / Full-Stack / Backend roles (Intern / Entry-level).
- *
- * @returns {Object} J Harsh Vardhan.
- */
-```
+### About Me
+
+| | |
+|:---|:---|
+| **Name** | J Harsh Vardhan |
+| **Location** | Bengaluru, Karnataka, India |
+| **Role** | Full-Stack Developer \| Blockchain Developer \| AI Engineer |
+| **Focus** | React, Node.js, TypeScript, Solidity, AI |
+| **Education** | BE CSE, SEA College of Engineering & Technology |
+| **Open to** | SDE / Full-Stack / Backend (Intern / Entry-level) |
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-vardhan-21a6361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:harshvardhan.21.6361@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
 
