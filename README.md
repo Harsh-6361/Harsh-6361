@@ -25,26 +25,28 @@
 |:---|:---|
 | **Name** | J Harsh Vardhan |
 | **Location** | Bengaluru, Karnataka, India |
-| **Role** | Full-Stack Developer \| Blockchain Developer \| AI Engineer |
-| **Focus** | React, Node.js, TypeScript, Solidity, AI |
+| **Role** | Full-Stack Developer | Blockchain Developer | AI Engineer |
+| **Focus** | React, Next.js, Node.js, Express, TypeScript, Python, Solidity, PostgreSQL, MongoDB, AWS, Docker, AI/ML |
 | **Education** | BE CSE, SEA College of Engineering & Technology |
-| **Open to** | SDE / Full-Stack / Backend (Intern / Entry-level) |
+| **Open to** | SDE | Full-Stack | Backend | Blockchain | AI Engineer Roles (Intern | Junior | Entry-level) |
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-vardhan-21a6361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:harshvardhan.21.6361@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/user-harshvardhan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
 
 | **Category**               | **Icons**                                                                                             |
 |----------------------------|------------------------------------------------------------------------------------------------------|
-| **Programming Languages**   | <img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=python" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=solidity" width="42" height="42"/> |
-| **Frontend Development**    | <img src="https://skillicons.dev/icons?i=react" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=html" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=css" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=tailwindcss" width="42" height="42"/> |
-| **Backend Development**     | <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=express" width="42" height="42"/> |
-| **Database**                | <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postgresql" width="42" height="42"/> |
-| **Cloud & DevOps**          | <img src="https://skillicons.dev/icons?i=aws" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=gcp" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=docker" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42"/> |
-| **Tools**                   | <img src="https://skillicons.dev/icons?i=git" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> |
+| **Programming Languages**   | <img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=python" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=cpp" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=java" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=solidity" width="42" height="42"/> |
+| **Frontend Development**    | <img src="https://skillicons.dev/icons?i=react" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=redux" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=html" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=css" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=tailwindcss" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42"/> |
+| **Backend Development**     | <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=express" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=flask" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=graphql" width="42" height="42"/> |
+| **Database**                | <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postgresql" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=redis" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=supabase" width="42" height="42"/> |
+| **Cloud & DevOps**          | <img src="https://skillicons.dev/icons?i=aws" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=gcp" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=docker" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=nginx" width="42" height="42"/> |
+| **AI & ML**                 | <img src="https://skillicons.dev/icons?i=tensorflow" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=pytorch" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=openai" width="42" height="42"/> |
+| **Tools**                   | <img src="https://skillicons.dev/icons?i=git" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=github" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=docker" width="42" height="42"/> |
 
 <br>
 <p align="center">
