@@ -19,16 +19,14 @@
   </div>
 </div>
 
-### About Me
+### Technical Skills
 
-| | |
-|:---|:---|
-| **Name** | J Harsh Vardhan |
-| **Location** | Bengaluru, Karnataka, India |
-| **Role** | Full-Stack Developer | Blockchain Developer | AI Engineer |
-| **Focus** | React, Next.js, Node.js, Express, TypeScript, Python, Solidity, PostgreSQL, MongoDB, AWS, Docker, AI/ML |
-| **Education** | BE CSE, SEA College of Engineering & Technology |
-| **Open to** | SDE | Full-Stack | Backend | Blockchain | AI Engineer Roles (Intern | Junior | Entry-level) |
+| **Category** | **Skills** |
+|-------------|-----------|
+| **Web & App Development** | **Front-End:** React, JavaScript, TypeScript, Next.js, Redux, HTML, CSS, Tailwind, Bootstrap **Back-End:** Python, Django, FastAPI, Node.js, Express, REST APIs |
+| **Databases** | **SQL:** PostgreSQL, MySQL **NoSQL:** MongoDB, Supabase |
+| **DevOps & Cloud** | AWS (EC2, S3, IAM, CloudTrail), GCP, Vercel, Git, CI/CD (Jenkins), Docker |
+| **Additional** | Blockchain (Solidity), Linux Fundamentals, Cybersecurity Tools, Vibe Coding, AI Agents, LaTeX |
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-vardhan-21a6361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
