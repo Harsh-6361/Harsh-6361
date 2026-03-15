@@ -19,9 +19,6 @@
   </div>
 </div>
 
-<details>
-<summary>About me</summary>
-
 ```js
 /**
  * Represents me.
@@ -39,11 +36,6 @@
  */
 ```
 
-</details>
-
-<details>
-<summary>Tech Stack</summary>
-
 ## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
 
 | **Category**               | **Icons**                                                                                             |
@@ -55,40 +47,26 @@
 | **Cloud & DevOps**          | <img src="https://skillicons.dev/icons?i=aws" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=gcp" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=docker" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42"/> |
 | **Tools**                   | <img src="https://skillicons.dev/icons?i=git" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> |
 
-</details>
-
-<details>
-<summary>GitHub Stats</summary>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-6361&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-6361&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
-</details>
 
-<details>
-<summary>GitHub Trophies</summary>
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harsh-6361&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
-</details>
 
-<details>
-<summary>Top Contributed Repo</summary>
 <br>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Harsh-6361&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
-</details>
 
-<details>
-<summary>Streak Stats</summary>
 <br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-6361&theme=radical&hide_border=false" alt="Streak Stats">
 </p>
-</details>
 
 </details>
 
