@@ -94,13 +94,41 @@
 
 ---
 
+## 🏆 Best Project — Product Highlight
+
+### [🎯 Hackathon Platform](https://github.com/Harsh-6361/hackathon_platform)
+> *End-to-end platform for hosting hackathons — conceived, designed, and built from scratch*
+
+**Problem Solved:** Organizing hackathons involved fragmented tools — spreadsheets for teams, Google Forms for submissions, manual judging. This platform unifies the entire workflow.
+
+**Key Features & PM Thinking:**
+- 🔐 **Anti-cheat exam system** — Identified integrity as a core user need for organizers
+- 👥 **Team formation module** — Reduced participant drop-off by enabling in-platform team discovery
+- 📋 **FCFS problem statement selection** — Fair allocation mechanism designed around fairness constraints
+- 🤖 **GitHub repo analysis** — Auto-evaluates submissions, reducing judge workload
+- 🏅 **Dynamic leaderboards & judge scoring** — Real-time feedback loop for participants
+- 🛡️ **Admin controls** — Role-based access for organizers, judges, and participants
+
+**Impact:** Replaced 5+ manual tools with a single platform; designed to scale to 500+ participants per event.
+
+**Tech:** TypeScript, Next.js, Supabase
+
+---
+
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Blockchain Water Management](https://github.com/Harsh-6361/blockchain-enabled-water-management) | Blockchain-enabled water management & theft detection | TypeScript, Solidity, AI |
-| [CCQ Website](https://github.com/Harsh-6361/CCQ-Website) | Commercial client website | TypeScript |
-| [Web3 Wallet Manager](https://github.com/Harsh-6361/Beginner-web3-wallet-manager) | Ethereum wallet manager | Solidity, React, Node.js |
+| Project | Problem Solved | Users / Impact | Tech |
+|---------|---------------|----------------|------|
+| [🏆 Hackathon Platform](https://github.com/Harsh-6361/hackathon_platform) | End-to-end hackathon hosting with anti-cheat, team formation & auto-judging | Designed for 500+ participants per event | TypeScript, Next.js, Supabase |
+| [🤖 Resume AI](https://github.com/Harsh-6361/resume_ai) | Job seekers struggle to tailor resumes; AI auto-generates & optimizes them | Students & job seekers | TypeScript, AI/LLM |
+| [🏅 Namma Sports](https://github.com/Harsh-6361/Namma_Sports) | No local platform for sports community discovery & event coordination | Local sports enthusiasts | Flutter, Dart |
+| [🚦 Traffic Violation System](https://github.com/Harsh-6361/Traffic_Violation_System) | Manual traffic monitoring is slow & error-prone | Civic/government use case | Python, CV/AI |
+| [💡 CodeQuest Master](https://github.com/Harsh-6361/codequest-master) | No structured coding challenge platform for school-level students | School students | HTML, JavaScript |
+| [📊 SGPA Calculator](https://github.com/Harsh-6361/sgpa-CALC) | Students calculate GPA manually using complex credit formulas | University students (1,000+ uses) | HTML, JavaScript |
+| [🔐 Password Strength Awareness](https://github.com/Harsh-6361/password_strength_awareness) | Low cybersecurity awareness among general users | General public / education | HTML, JS |
+| [🌐 Blockchain Water Management](https://github.com/Harsh-6361/blockchain-enabled-water-management) | Water theft detection using tamper-proof blockchain logs | Utility companies / research | TypeScript, Solidity, AI |
+| [💼 Job Portal Backend](https://github.com/Harsh-6361/Job_Portal_Backend) | Scalable backend for job listing and applicant matching | Job seekers & employers | Python, FastAPI |
+| [✈️ Airline Reservation Platform](https://github.com/Harsh-6361/Airline_Reservation_Platform) | Full booking flow with seat management and reservations | Travel / academic use case | PHP, MySQL |
 
 ---
 
